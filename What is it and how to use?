@@ -1,0 +1,8 @@
+What is it?
+This project focuses on the design and implementation of a 4-bit comparator circuit using digital logic gates and basic 
+combinational circuit techniques. The purpose of the project is to compare two 4-bit binary numbers and determine their 
+relationship. The comparator circuit produces three different outputs to indicate whether the first binary number is greater
+than the second number (A > B), equal to the second number (A = B), or less than the second number (A < B).
+
+How to use it?
+Anyone can use it when they need to perform any if-else statement in any digital electronics circuits
